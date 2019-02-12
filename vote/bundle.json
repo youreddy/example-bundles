@@ -8,7 +8,7 @@
         "image": "cnab/vote:latest"
         }
     ],
-    "images": [],
+    "images": {},
     "parameters": {},
     "credentials": {
         "kubeconfig": {

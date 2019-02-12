@@ -7,7 +7,7 @@
         "image": "cnab/k8sbase:latest"
         }
     ],
-    "images": [],
+    "images": {},
     "parameters": {},
     "credentials": {}
 }
